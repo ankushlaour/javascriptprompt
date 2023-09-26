@@ -1,5 +1,5 @@
 # javascriptprompt
-this concept use to take the input from the user in without using 
+This concept use to take the input from the user in without using 
 any query selector 
 OR with out using any html file .
 this program can run without any browser by using node js 
